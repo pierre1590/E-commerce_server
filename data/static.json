@@ -1,0 +1,39 @@
+{
+  "user": {
+    "name": "Piero Sabino",
+    "email": "test@mail.com",
+    "password": "password"
+  },
+  "products": [
+    {
+      "id": "one",
+      "name": "First product",
+      "available": 5,
+      "price": 10
+    },
+    {
+      "id": "two",
+      "name": "Second product",
+      "available": 2,
+      "price": 100
+    },
+    {
+      "id": "three",
+      "name": "Third product",
+      "available": 15,
+      "price": 4
+    },
+    {
+      "id": "four",
+      "name": "Fourth product",
+      "available": 8,
+      "price": 12.5
+    },
+    {
+      "id": "five",
+      "name": "Fifth product",
+      "available": 32,
+      "price": 1.5
+    }
+  ]
+}
